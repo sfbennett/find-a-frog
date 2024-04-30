@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frogs Filtering</title>
+    <link href="./style.css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jersey+15&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="./favicon_io/favicon.ico" />
+  </head>
+  <body>
+    <!--Filtering Frogs Section-->
+    <section>
+      <h1>Find a Frog</h1>
+      <div class="search-and-buttons">
+        <label
+          >Search frogs:
+          <input
+            type="text"
+            name="search"
+            class="search"
+            placeholder="Enter words to search for..."
+          />
+        </label>
+        <div class="frog-buttons">
+          <button class="frog-button currently-selected-button" id="all">
+            All
+          </button>
+          <button class="frog-button" id="frogs">Frogs</button>
+          <button class="frog-button" id="toads">Toads</button>
+          <button class="frog-button" id="fictional">Fictional</button>
+        </div>
+      </div>
+      <div class="frogs"></div>
+    </section>
+
+    <!--JavaScript script tag below-->
+    <script defer src="./filtering.js"></script>
+  </body>
+</html>
