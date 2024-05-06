@@ -1,4 +1,4 @@
-# JavaScript Frog Filtering :frog:
+# Find a Frog :frog:
 
 # Project Description 
 
