@@ -2,7 +2,10 @@
 
 # Project Description 
 
-Find a Frog is a project that I put together to practice using JavaScript to dynamically filter content in two ways: via search input and also via filter buttons.
+Find a Frog is a project that I put together to practice using JavaScript to dynamically filter content in two different ways: 
+
+1). via search input
+2). via filter buttons
 
 # Technologies Used 
 
