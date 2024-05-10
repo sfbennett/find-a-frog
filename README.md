@@ -1,6 +1,4 @@
-# Find a Frog :frog:
-
-## Project Description 
+# Find a Frog
 
 Find a Frog is a project that I put together to practice using JavaScript to dynamically filter content in two different ways: 
 
